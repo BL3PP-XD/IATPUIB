@@ -21,11 +21,11 @@
 
 ### Шаг 1. Установка интерпретатора R
 
-![](https://github.com/BL3PP-XD/IATPUIB/tree/main/lab0/IMG/1.jpg)
+![](IMG/1.jpg)
 
 ### Шаг 2. Создание репозитория на GitHub
 
-![](https://github.com/BL3PP-XD/IATPUIB/tree/main/lab0/IMG/2.jpg)
+![](IMG/2.jpg)
 
 ### Шаг 3. Оформить отчет в соотвествии с шаблоном. Отчет может содержать код.
 
