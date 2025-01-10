@@ -21,11 +21,11 @@
 
 ### Шаг 1. Установка программного пакет swirl.
 
-![](https://github.com/Andrey41854/Nagibin_R/blob/main/Lab1/img/3.png)
+![](img/3.png)
 
 ### Шаг 2. Запуск swirl и выбор обучения
 
-![](https://github.com/Andrey41854/Nagibin_R/blob/main/Lab1/img/4.png)
+![](img/4.png)
 
 ### Шаг 3. Выполнение курсов
 
